@@ -1,5 +1,6 @@
 # BSRN-Projekt-
-Alternative 7 Labyrinth (Maze)
+# Khalid Zoufal ( 1349537 ) , Fatima Irhzal ( 1352346 ) , Abed al muhsen Alkarim ( 1352650 )
+# Alternative 7 Labyrinth (Maze)
 
 import time
 import random
